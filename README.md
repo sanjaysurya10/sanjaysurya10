@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-📧 your@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjay-surya-1609a9293?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+📧 sanjaysurya386@gmail.com
 
 ---
 
